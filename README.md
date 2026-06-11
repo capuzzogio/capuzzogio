@@ -1,6 +1,9 @@
 # Olá, eu sou a Giovanna 👋
 
-Analista de dados com foco em transformar dados em decisões de negócio.
+Profissional de dados com experiência em análise exploratória, dashboards e
+pipelines. Atuo com Python, SQL e Power BI no tratamento de dados e desenvolvimento
+de indicadores para apoio à tomada de decisão. Interesse em modernização de
+ambientes de dados e Machine Learning.
 
 ---
 
@@ -23,6 +26,12 @@ Analista de dados com foco em transformar dados em decisões de negócio.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ---
 
 ## 📂 Projetos em destaque
@@ -30,7 +39,7 @@ Analista de dados com foco em transformar dados em decisões de negócio.
 | Projeto | Descrição | Ferramentas |
 |---|---|---|
 | [A/B Testing — Marketing](https://github.com/capuzzogio/ab-testing-project) | Análise comparativa de campanhas com KPIs, funil e validação estatística | Python · Pandas · Matplotlib · SciPy |
-| [RAG Pipeline](https://github.com/capuzzogio/rag-pipeline) | Consulta inteligente de documentos com busca semântica | Python · FAISS |
+| [RAG Pipeline](https://github.com/capuzzogio/rag-pipeline) | Pipeline de ingestão de documentos com embeddings, busca semântica via FAISS e integração com LLMs | Python · FastAPI · FAISS |
 
 ---
 
